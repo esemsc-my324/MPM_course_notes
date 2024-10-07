@@ -3,4 +3,4 @@
 Hopefully this is going to be a place that contains the essence of knowledge.
 
 ### Link to Notes:
-[Lecture 1: Github and Virtual Environment](./"Lecture 1 Github.md")
+[Lecture 1: Github and Virtual Environment](./Lecture%201%20Github.md)
