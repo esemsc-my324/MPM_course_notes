@@ -116,7 +116,7 @@ d = np.arange(9).reshape(3,3)
 #      [6 7 8]]
 ```
 
-![image-20241008162711468](/Users/my324/Desktop/Course Materials/MPM_course_notes/assets/image-20241008162711468.png)
+![image-20241008162711468](./assets/l2_negative_index.png)
 
 #### Attributes of array
 
