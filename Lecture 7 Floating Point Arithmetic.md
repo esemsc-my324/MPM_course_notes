@@ -53,3 +53,6 @@ $$(11)_{10} = (1011)_2$$
 
 Thus, 0.625 in binary, when we read the integer parts from **<u>top to bottom</u>**:
 $$(0.625)_{10} = (0.101)_{2}$$
+
+## IEEE-754
+
