@@ -261,3 +261,6 @@ left.join(right)  # Keep the rows same as 'left'
 left.join(right, how='outer')  # all rows join
 ```
 
+
+
+Please define functions to test the every possible type of input to the given function and the expected results.
